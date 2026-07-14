@@ -28,7 +28,7 @@ export default function About() {
             About
           </span>
           <h2 className="mt-4 font-[family-name:var(--font-display)] text-3xl md:text-4xl font-bold text-bone leading-tight">
-            Third-year engineer.
+            Third-year engineering student.
             <br />
             First-principles builder.
           </h2>

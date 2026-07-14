@@ -16,7 +16,7 @@ const stats = [
   {
     to: 4,
     format: (n: number) => `${Math.round(n)}th`,
-    label: "State-level exhibition, 147 teams",
+    label: "State-level exhibition, 147 Concept notes",
   },
   {
     to: 2028,
@@ -83,7 +83,7 @@ export default function Hero() {
                 variants={item}
                 className="mt-8 max-w-lg text-bone-dim text-base md:text-lg leading-relaxed"
               >
-                I&apos;m Rachana — a Computer Science engineer fusing AI/ML with edge
+                I&apos;m Rachana — a Computer Science engineering student fusing AI/ML with edge
                 hardware. From wearables that read the heart to sensors that read
                 a lake, I design systems that turn raw signal into something
                 worth acting on.
